@@ -1,1 +1,2 @@
-# UAS_PengolahanCitra
+# UAS Pengolahan Citra
+
